@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "indprog"
+assignment: "02-conveyor-belt"
+owner:
+  username: "Christoffer-Marell"
+  id: 253020914
+  accepted_at: "2026-09-07T14:41:48Z"
+source:
+  owner: "indprog"
+  owner_id: 316953525
+  repo: "python-template"
+  branch: "main"
